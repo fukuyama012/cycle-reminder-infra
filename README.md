@@ -1,2 +1,10 @@
 # cycle-reminder-infra
-Infrastructure as Code
+### GKE  
+node,  
+preemptible node  
+
+### GCS  
+terraform state  
+
+### Static IP
+compute address(Ingress Load Balancer)
