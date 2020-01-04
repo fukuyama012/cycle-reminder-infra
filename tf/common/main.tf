@@ -5,3 +5,7 @@ output "region" {
 output "zone" {
   value = "us-central1-b"
 }
+
+output "network" {
+  value = "default"
+}
