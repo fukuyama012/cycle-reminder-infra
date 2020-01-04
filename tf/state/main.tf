@@ -13,7 +13,7 @@ provider "google" {
 terraform {
   backend "gcs" {
     bucket  = "cr-terraform-state"
-    prefix = "terraform/state"
+    prefix = "state"
   }
 }
 
