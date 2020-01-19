@@ -8,3 +8,7 @@ terraform state
 
 ### Static IP
 compute address(Ingress Load Balancer)
+
+### Helm
+nginx-ingress  
+cert-manager
