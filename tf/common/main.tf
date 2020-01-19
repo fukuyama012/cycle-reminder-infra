@@ -9,3 +9,7 @@ output "zone" {
 output "network" {
   value = "default"
 }
+
+output "tiller_account_name" {
+  value = "tiller"
+}
